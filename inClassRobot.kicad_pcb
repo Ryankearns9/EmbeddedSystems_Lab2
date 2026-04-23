@@ -13721,5 +13721,16 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 116.5 56)
+		(end 216.5 156)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "e6ea7712-46d7-43e6-b0a3-995e75c4d8e8")
+	)
 	(embedded_fonts no)
 )
